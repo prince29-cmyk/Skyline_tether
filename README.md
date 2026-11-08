@@ -39,7 +39,7 @@ Progress is saved in your browser's local storage.
 1. Open the repository on GitHub and go to **Settings → Pages**.
 2. Under **Build and deployment**, set **Source** to *Deploy from a branch*.
 3. Choose the **main** branch and the **/ (root)** folder, then click **Save**.
-4. After a minute, your game is live at `https://<your-username>.github.io/<repo-name>/`.
+4. After a minute, your game is live at `https://prince29-cmyk.github.io/<repo-name>/`.
 
 ## Tech
 
