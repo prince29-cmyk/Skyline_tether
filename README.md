@@ -6,7 +6,7 @@ Runs in any modern browser on **phones, tablets and laptops**. No install and no
 
 ## Play
 
-- **Online:** turn on GitHub Pages (see below) and open `https://<your-username>.github.io/<repo-name>/`
+- **Online:** turn on GitHub Pages (see below) and open `https://prince29-cmyk.github.io/Skyline_tether/`
 - **Offline:** download the repo and open `index.html` in your browser
 
 ## Controls
